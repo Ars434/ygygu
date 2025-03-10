@@ -7,7 +7,7 @@
             {
                 name: 'Giulia',
                 year: '2020-н.в.',
-                image: '../../img/gulia.jpg',
+                image: '../../img/Gulia.jpg',
             },
             {
                 name: 'Junior',
