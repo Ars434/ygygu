@@ -297,7 +297,7 @@
             {
                 name: 'Tipo 316',
                 year: '1938-1939',
-                image: '../../img/AlfaRomeoTipo316.jpg',
+                image: '../../img/AlfaRomeoTipo316.JPG',
             },
             {
                 name: 'Tipo 308',
